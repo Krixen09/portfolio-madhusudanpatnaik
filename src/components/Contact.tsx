@@ -109,7 +109,7 @@ const Contact: React.FC = () => {
             <div className="relative w-36 h-36 rounded-full overflow-hidden border-4 border-cyber-blue/30 box-glow">
               {/* Replace with your actual image path */}
               <img 
-                src="JQ8l4qQx_400x400.jpg" 
+                src="/images/JQ8l4qQx_400x400.jpg" 
                 alt="Madhusudan Sathujoda" 
                 className="w-full h-full object-cover"
               />
